@@ -12,7 +12,6 @@
 
 - 🕹️ **언리얼 엔진 5 / C++** 기반 게임 클라이언트 개발을 공부하고 있습니다.
 - 🧩 액션 RPG, 오픈월드 서바이벌, 멀티스레드 게임 서버까지 다양한 형태의 프로젝트를 경험했습니다.
-- 🔧 "과도한 결합·추상화 → 중재자 패턴/DIP를 통한 재설계" 처럼 **구조를 개선한 경험**을 중요하게 생각합니다.
 - 📚 트러블슈팅 기록을 통해 *왜 이렇게 만들었는가*를 설명할 수 있는 개발자가 되는 것이 목표입니다.
 
 ---
@@ -28,7 +27,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/leeeungu/Network-Multithread">
+  <a href="https://github.com/leeeungu/SnakeGame">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leeeungu&repo=Network-Multithread&theme=tokyonight&hide_border=true" />
   </a>
 </p>
