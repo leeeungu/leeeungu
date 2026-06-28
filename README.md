@@ -51,17 +51,20 @@
 ![Blueprint](https://img.shields.io/badge/Blueprint-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Network & Library**
+**Library**
 
 ![SDL_net](https://img.shields.io/badge/SDL__net-1A4D2E?style=for-the-badge&logo=c&logoColor=white)
 ![Multithreading](https://img.shields.io/badge/Multithreading-5C6BC0?style=for-the-badge&logo=task&logoColor=white)
 ![VaRest](https://img.shields.io/badge/VaRest-FF6F00?style=for-the-badge&logo=postman&logoColor=white)
+![GPT API](https://img.shields.io/badge/GPT%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Windows API](https://img.shields.io/badge/Windows%20API-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
@@ -69,3 +72,4 @@
 
 - 📧 Email: skysea6055@gmail.com
 - 📝 Portfolio: [Google Drive](https://drive.google.com/drive/folders/1Jg5jqs7sb7ymzSZmLLSpl-HiaY1wVe-_)
+- 📺 YouTube: [@돌멩이-i2b](https://www.youtube.com/@%EB%8F%8C%EB%A9%A9%EC%9D%B4-i2b)
