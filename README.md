@@ -28,7 +28,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/leeeungu/SnakeGame">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leeeungu&repo=Network-Multithread&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leeeungu&repo=SnakeGame&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
