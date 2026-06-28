@@ -19,13 +19,13 @@
 ### 🚀 Featured Projects
 
 <p align="center">
+   <a href="https://github.com/leeeungu/ProjectOpenWorld">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leeeungu&repo=ProjectOpenWorld&theme=tokyonight&hide_border=true" />
+  </a>
   <a href="https://github.com/leeeungu/ProjectRPG">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leeeungu&repo=ProjectRPG&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/leeeungu/ProjectOpenWorld">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leeeungu&repo=ProjectOpenWorld&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+ </p>
 <p align="center">
   <a href="https://github.com/leeeungu/SnakeGame">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leeeungu&repo=SnakeGame&theme=tokyonight&hide_border=true" />
