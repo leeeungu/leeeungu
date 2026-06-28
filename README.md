@@ -30,6 +30,8 @@
   <a href="https://github.com/leeeungu/SnakeGame">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leeeungu&repo=SnakeGame&theme=tokyonight&hide_border=true" />
   </a>
+  <a>
+  </a>
 </p>
 
 | 프로젝트 | 설명 | 스택 |
