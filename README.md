@@ -17,6 +17,32 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/leeeungu/ProjectRPG">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leeeungu&repo=ProjectRPG&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/leeeungu/ProjectOpenWorld">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leeeungu&repo=ProjectOpenWorld&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/leeeungu/Network-Multithread">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leeeungu&repo=Network-Multithread&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+| 프로젝트 | 설명 | 스택 |
+|---|---|---|
+| **🗡️ ProjectRPG** | 3인 팀 · 10주 · 쿼터뷰 액션 RPG (Lost Ark 스타일). 인벤토리·상호작용·퀘스트 등 핵심 시스템 구현. | UE5, C++, Blueprint |
+| **🌍 ProjectOpenWorld** | 1인 개발 · UE5 오픈월드 서바이벌/컬렉션 게임. 중재자 패턴·DIP를 적용한 인벤토리 재설계. | UE5, C++, VaRest |
+| **🐍 Network-Multithread** | 1인 개발 · SDL_net 기반 멀티스레드 게임 서버 (SnakeGame). | C++, SDL_net |
+
+> 📂 각 프로젝트의 상세 문서·영상·실행 파일은 [포트폴리오 드라이브](https://drive.google.com/drive/folders/1Jg5jqs7sb7ymzSZmLLSpl-HiaY1wVe-_)에서 확인하실 수 있습니다.
+
+---
+
 ### 🛠️ Tech Stack
 
 **Engine & Language**
@@ -37,18 +63,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| 프로젝트 | 설명 | 스택 |
-|---|---|---|
-| **🗡️ ProjectRPG** | 3인 팀 · 10주 · 쿼터뷰 액션 RPG (Lost Ark 스타일). 인벤토리·상호작용·퀘스트 등 핵심 시스템 구현. | UE5, C++, Blueprint |
-| **🌍 ProjectOpenWorld** | 1인 개발 · UE5 오픈월드 서바이벌/컬렉션 게임. 중재자 패턴·DIP를 적용한 인벤토리 재설계. | UE5, C++, VaRest |
-| **🐍 Network-Multithread** | 1인 개발 · SDL_net 기반 멀티스레드 게임 서버 (SnakeGame). | C++, SDL_net |
-
-> 📂 각 프로젝트의 상세 문서·영상·실행 파일은 [포트폴리오 드라이브](https://drive.google.com/drive/folders/1Jg5jqs7sb7ymzSZmLLSpl-HiaY1wVe-_)에서 확인하실 수 있습니다.
 
 ---
 
