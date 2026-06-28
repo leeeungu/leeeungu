@@ -69,4 +69,3 @@
 
 - 📧 Email: skysea6055@gmail.com
 - 📝 Portfolio: [Google Drive](https://drive.google.com/drive/folders/1Jg5jqs7sb7ymzSZmLLSpl-HiaY1wVe-_)
-- 🐙 GitHub: [github.com/leeeungu](https://github.com/leeeungu)
