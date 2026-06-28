@@ -36,8 +36,8 @@
 
 | 프로젝트 | 설명 | 스택 |
 |---|---|---|
-| **🗡️ ProjectRPG** | 3인 팀 · 10주 · 쿼터뷰 액션 RPG (Lost Ark 스타일).</br> 인벤토리·상호작용·퀘스트 등 핵심 시스템 구현. | UE5, C++, Blueprint |
-| **🌍 ProjectOpenWorld** | 1인 개발 · UE5 오픈월드 서바이벌/컬렉션 게임. </br>무한 맵(실시간 지형 생성) · Pyhton 자동화 · GPTAPI 활용 · | UE5, C++, VaRest |
+| **🗡️ ProjectRPG** | 3인 팀 · 10주 · 쿼터뷰 액션 RPG (Lost Ark 스타일) </br> 인벤토리·상호작용·퀘스트 등 핵심 시스템 구현. | UE5, C++, Blueprint |
+| **🌍 ProjectOpenWorld** | 1인 개발 · UE5 오픈월드 서바이벌/컬렉션 게임 </br>무한 맵(실시간 지형 생성) · Pyhton 자동화 · GPTAPI 활용| UE5, C++, VaRest |
 | **🐍 Network-Multithread** | 1인 개발 · SDL_net 기반 멀티스레드 게임 서버 (SnakeGame). | C++, SDL_net |
 
 > 📂 각 프로젝트의 상세 문서·영상·실행 파일은 [포트폴리오 드라이브](https://drive.google.com/drive/folders/1Jg5jqs7sb7ymzSZmLLSpl-HiaY1wVe-_)에서 확인하실 수 있습니다.
