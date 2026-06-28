@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🕹️ **언리얼 엔진 5 / C++** 기반 게임 클라이언트 개발을 공부하고 있습니다.
+- 🕹️ **언리얼 엔진 5 / C++** 기반 게임 클라이언트 개발자 지망생입니다.
 - 🧩 액션 RPG, 오픈월드 서바이벌, 멀티스레드 게임 서버까지 다양한 형태의 프로젝트를 경험했습니다.
 - 📚 트러블슈팅 기록을 통해 *왜 이렇게 만들었는가*를 설명할 수 있는 개발자가 되는 것이 목표입니다.
 
@@ -62,15 +62,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leeeungu&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeeungu&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
 ---
 
