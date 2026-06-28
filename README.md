@@ -1,0 +1,68 @@
+<h1 align="center">🎮 이은구 · Eungu Lee</h1>
+<h3 align="center">Game Client Developer (UE5 / C++)</h3>
+
+<p align="center">
+  설계의 한계를 마주하고, 재설계로 개선하며, 조기 검증의 중요성을 체득하는 개발자입니다.<br/>
+  단순한 기능 구현을 넘어 <b>문제 해결 과정</b>을 코드와 문서로 남기는 것을 지향합니다.
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🕹️ **언리얼 엔진 5 / C++** 기반 게임 클라이언트 개발을 공부하고 있습니다.
+- 🧩 액션 RPG, 오픈월드 서바이벌, 멀티스레드 게임 서버까지 다양한 형태의 프로젝트를 경험했습니다.
+- 🔧 "과도한 결합·추상화 → 중재자 패턴/DIP를 통한 재설계" 처럼 **구조를 개선한 경험**을 중요하게 생각합니다.
+- 📚 트러블슈팅 기록을 통해 *왜 이렇게 만들었는가*를 설명할 수 있는 개발자가 되는 것이 목표입니다.
+
+---
+
+### 🛠️ Tech Stack
+
+**Engine & Language**
+
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Blueprint](https://img.shields.io/badge/Blueprint-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Network & Library**
+
+![SDL_net](https://img.shields.io/badge/SDL__net-1A4D2E?style=for-the-badge&logo=c&logoColor=white)
+![Multithreading](https://img.shields.io/badge/Multithreading-5C6BC0?style=for-the-badge&logo=task&logoColor=white)
+![VaRest](https://img.shields.io/badge/VaRest-FF6F00?style=for-the-badge&logo=postman&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| 프로젝트 | 설명 | 스택 |
+|---|---|---|
+| **🗡️ ProjectRPG** | 3인 팀 · 10주 · 쿼터뷰 액션 RPG (Lost Ark 스타일). 인벤토리·상호작용·퀘스트 등 핵심 시스템 구현. | UE5, C++, Blueprint |
+| **🌍 ProjectOpenWorld** | 1인 개발 · UE5 오픈월드 서바이벌/컬렉션 게임. 중재자 패턴·DIP를 적용한 인벤토리 재설계. | UE5, C++, VaRest |
+| **🐍 Network-Multithread** | 1인 개발 · SDL_net 기반 멀티스레드 게임 서버 (SnakeGame). | C++, SDL_net |
+
+> 📂 각 프로젝트의 상세 문서·영상·실행 파일은 [포트폴리오 드라이브](https://drive.google.com/drive/folders/1Jg5jqs7sb7ymzSZmLLSpl-HiaY1wVe-_)에서 확인하실 수 있습니다.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leeeungu&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeeungu&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 📫 Contact
+
+- 📧 Email: `직접 작성 필요`
+- 📝 Portfolio: [Google Drive](https://drive.google.com/drive/folders/1Jg5jqs7sb7ymzSZmLLSpl-HiaY1wVe-_)
+- 🐙 GitHub: [github.com/leeeungu](https://github.com/leeeungu)
